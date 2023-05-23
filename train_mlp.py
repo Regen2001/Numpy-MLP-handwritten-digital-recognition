@@ -15,8 +15,8 @@ np.random.seed(int(time.time()))
 
 def main(args):
     transform = transforms.Compose([transforms.ToTensor()])
-    train_set = torchvision.datasets.MNIST(root='../data', train=True, download=True, transform=transform)
-    test_set = torchvision.datasets.MNIST(root='../data', train=False, download=True, transform=transform)
+    train_set = torchvision.datasets.MNIST(root='./data', train=True, download=True, transform=transform)
+    test_set = torchvision.datasets.MNIST(root='./data', train=False, download=True, transform=transform)
 
     train_dl = torch.utils.data.DataLoader(train_set, batch_size=args.batch_size, drop_last=True, num_workers=args.num_workers, shuffle=True)
     test_dl = torch.utils.data.DataLoader(test_set, batch_size=args.batch_size, drop_last=False, num_workers=args.num_workers, shuffle=True)
