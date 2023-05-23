@@ -1,0 +1,502 @@
+
+2023-05-20 18:24:42,918 - MLP - INFO - Train:Step/Epoch:0/0, Accuracy:9.96, Loss:2.0180
+2023-05-20 18:24:43,388 - MLP - INFO - Train:Step/Epoch:50/0, Accuracy:64.06, Loss:0.3277
+2023-05-20 18:24:43,815 - MLP - INFO - Train:Step/Epoch:100/0, Accuracy:74.02, Loss:0.2738
+2023-05-20 18:24:48,153 - MLP - INFO - Epoch:1
+2023-05-20 18:24:48,153 - MLP - INFO - Test: Accuracy: 79.80%, Loss: 0.2481
+2023-05-20 18:24:51,446 - MLP - INFO - Train:Step/Epoch:0/1, Accuracy:82.42, Loss:0.2373
+2023-05-20 18:24:51,996 - MLP - INFO - Train:Step/Epoch:50/1, Accuracy:79.88, Loss:0.2390
+2023-05-20 18:24:52,475 - MLP - INFO - Train:Step/Epoch:100/1, Accuracy:83.98, Loss:0.2192
+2023-05-20 18:24:57,135 - MLP - INFO - Epoch:2
+2023-05-20 18:24:57,135 - MLP - INFO - Test: Accuracy: 85.38%, Loss: 0.2035
+2023-05-20 18:25:00,567 - MLP - INFO - Train:Step/Epoch:0/2, Accuracy:84.38, Loss:0.2067
+2023-05-20 18:25:01,382 - MLP - INFO - Train:Step/Epoch:50/2, Accuracy:86.91, Loss:0.1944
+2023-05-20 18:25:01,900 - MLP - INFO - Train:Step/Epoch:100/2, Accuracy:85.94, Loss:0.1898
+2023-05-20 18:25:06,761 - MLP - INFO - Epoch:3
+2023-05-20 18:25:06,761 - MLP - INFO - Test: Accuracy: 87.70%, Loss: 0.1793
+2023-05-20 18:25:10,285 - MLP - INFO - Train:Step/Epoch:0/3, Accuracy:84.57, Loss:0.1929
+2023-05-20 18:25:10,949 - MLP - INFO - Train:Step/Epoch:50/3, Accuracy:85.94, Loss:0.1798
+2023-05-20 18:25:11,477 - MLP - INFO - Train:Step/Epoch:100/3, Accuracy:90.43, Loss:0.1614
+2023-05-20 18:25:16,238 - MLP - INFO - Epoch:4
+2023-05-20 18:25:16,238 - MLP - INFO - Test: Accuracy: 88.97%, Loss: 0.1627
+2023-05-20 18:25:19,962 - MLP - INFO - Train:Step/Epoch:0/4, Accuracy:86.91, Loss:0.1674
+2023-05-20 18:25:20,494 - MLP - INFO - Train:Step/Epoch:50/4, Accuracy:88.48, Loss:0.1520
+2023-05-20 18:25:21,015 - MLP - INFO - Train:Step/Epoch:100/4, Accuracy:87.70, Loss:0.1624
+2023-05-20 18:25:25,740 - MLP - INFO - Epoch:5
+2023-05-20 18:25:25,740 - MLP - INFO - Test: Accuracy: 89.94%, Loss: 0.1498
+2023-05-20 18:25:29,307 - MLP - INFO - Train:Step/Epoch:0/5, Accuracy:89.65, Loss:0.1470
+2023-05-20 18:25:29,912 - MLP - INFO - Train:Step/Epoch:50/5, Accuracy:91.41, Loss:0.1362
+2023-05-20 18:25:30,437 - MLP - INFO - Train:Step/Epoch:100/5, Accuracy:90.23, Loss:0.1407
+2023-05-20 18:25:35,172 - MLP - INFO - Epoch:6
+2023-05-20 18:25:35,172 - MLP - INFO - Test: Accuracy: 90.45%, Loss: 0.1407
+2023-05-20 18:25:38,710 - MLP - INFO - Train:Step/Epoch:0/6, Accuracy:89.45, Loss:0.1477
+2023-05-20 18:25:39,395 - MLP - INFO - Train:Step/Epoch:50/6, Accuracy:89.65, Loss:0.1419
+2023-05-20 18:25:39,914 - MLP - INFO - Train:Step/Epoch:100/6, Accuracy:88.28, Loss:0.1435
+2023-05-20 18:25:44,613 - MLP - INFO - Epoch:7
+2023-05-20 18:25:44,613 - MLP - INFO - Test: Accuracy: 91.00%, Loss: 0.1339
+2023-05-20 18:25:48,082 - MLP - INFO - Train:Step/Epoch:0/7, Accuracy:87.70, Loss:0.1519
+2023-05-20 18:25:48,718 - MLP - INFO - Train:Step/Epoch:50/7, Accuracy:90.04, Loss:0.1353
+2023-05-20 18:25:49,252 - MLP - INFO - Train:Step/Epoch:100/7, Accuracy:92.38, Loss:0.1225
+2023-05-20 18:25:53,871 - MLP - INFO - Epoch:8
+2023-05-20 18:25:53,871 - MLP - INFO - Test: Accuracy: 91.30%, Loss: 0.1278
+2023-05-20 18:25:57,152 - MLP - INFO - Train:Step/Epoch:0/8, Accuracy:91.99, Loss:0.1232
+2023-05-20 18:25:57,865 - MLP - INFO - Train:Step/Epoch:50/8, Accuracy:90.62, Loss:0.1282
+2023-05-20 18:25:58,397 - MLP - INFO - Train:Step/Epoch:100/8, Accuracy:92.77, Loss:0.1152
+2023-05-20 18:26:03,176 - MLP - INFO - Epoch:9
+2023-05-20 18:26:03,176 - MLP - INFO - Test: Accuracy: 91.62%, Loss: 0.1232
+2023-05-20 18:26:06,782 - MLP - INFO - Train:Step/Epoch:0/9, Accuracy:91.80, Loss:0.1197
+2023-05-20 18:26:07,390 - MLP - INFO - Train:Step/Epoch:50/9, Accuracy:91.80, Loss:0.1217
+2023-05-20 18:26:07,917 - MLP - INFO - Train:Step/Epoch:100/9, Accuracy:89.65, Loss:0.1277
+2023-05-20 18:26:12,669 - MLP - INFO - Epoch:10
+2023-05-20 18:26:12,669 - MLP - INFO - Test: Accuracy: 92.03%, Loss: 0.1198
+2023-05-20 18:26:16,123 - MLP - INFO - Train:Step/Epoch:0/10, Accuracy:92.19, Loss:0.1189
+2023-05-20 18:26:16,793 - MLP - INFO - Train:Step/Epoch:50/10, Accuracy:91.41, Loss:0.1221
+2023-05-20 18:26:17,317 - MLP - INFO - Train:Step/Epoch:100/10, Accuracy:94.14, Loss:0.1086
+2023-05-20 18:26:22,091 - MLP - INFO - Epoch:11
+2023-05-20 18:26:22,092 - MLP - INFO - Test: Accuracy: 92.21%, Loss: 0.1166
+2023-05-20 18:26:25,643 - MLP - INFO - Train:Step/Epoch:0/11, Accuracy:91.60, Loss:0.1136
+2023-05-20 18:26:26,284 - MLP - INFO - Train:Step/Epoch:50/11, Accuracy:91.41, Loss:0.1154
+2023-05-20 18:26:26,810 - MLP - INFO - Train:Step/Epoch:100/11, Accuracy:91.41, Loss:0.1141
+2023-05-20 18:26:31,683 - MLP - INFO - Epoch:12
+2023-05-20 18:26:31,683 - MLP - INFO - Test: Accuracy: 92.33%, Loss: 0.1136
+2023-05-20 18:26:35,182 - MLP - INFO - Train:Step/Epoch:0/12, Accuracy:94.34, Loss:0.1027
+2023-05-20 18:26:35,828 - MLP - INFO - Train:Step/Epoch:50/12, Accuracy:93.75, Loss:0.1110
+2023-05-20 18:26:36,351 - MLP - INFO - Train:Step/Epoch:100/12, Accuracy:93.16, Loss:0.1112
+2023-05-20 18:26:40,916 - MLP - INFO - Epoch:13
+2023-05-20 18:26:40,916 - MLP - INFO - Test: Accuracy: 92.37%, Loss: 0.1119
+2023-05-20 18:26:44,473 - MLP - INFO - Train:Step/Epoch:0/13, Accuracy:93.55, Loss:0.1056
+2023-05-20 18:26:45,095 - MLP - INFO - Train:Step/Epoch:50/13, Accuracy:92.97, Loss:0.1065
+2023-05-20 18:26:45,619 - MLP - INFO - Train:Step/Epoch:100/13, Accuracy:91.99, Loss:0.1119
+2023-05-20 18:26:50,260 - MLP - INFO - Epoch:14
+2023-05-20 18:26:50,262 - MLP - INFO - Test: Accuracy: 92.56%, Loss: 0.1094
+2023-05-20 18:26:53,733 - MLP - INFO - Train:Step/Epoch:0/14, Accuracy:92.38, Loss:0.1078
+2023-05-20 18:26:54,367 - MLP - INFO - Train:Step/Epoch:50/14, Accuracy:92.58, Loss:0.1085
+2023-05-20 18:26:54,898 - MLP - INFO - Train:Step/Epoch:100/14, Accuracy:91.60, Loss:0.1170
+2023-05-20 18:26:59,561 - MLP - INFO - Epoch:15
+2023-05-20 18:26:59,561 - MLP - INFO - Test: Accuracy: 92.58%, Loss: 0.1077
+2023-05-20 18:27:02,994 - MLP - INFO - Train:Step/Epoch:0/15, Accuracy:92.19, Loss:0.1117
+2023-05-20 18:27:03,647 - MLP - INFO - Train:Step/Epoch:50/15, Accuracy:91.99, Loss:0.1134
+2023-05-20 18:27:04,184 - MLP - INFO - Train:Step/Epoch:100/15, Accuracy:92.19, Loss:0.1112
+2023-05-20 18:27:08,738 - MLP - INFO - Epoch:16
+2023-05-20 18:27:08,739 - MLP - INFO - Test: Accuracy: 92.94%, Loss: 0.1054
+2023-05-20 18:27:12,163 - MLP - INFO - Train:Step/Epoch:0/16, Accuracy:94.34, Loss:0.1037
+2023-05-20 18:27:12,709 - MLP - INFO - Train:Step/Epoch:50/16, Accuracy:90.04, Loss:0.1194
+2023-05-20 18:27:13,237 - MLP - INFO - Train:Step/Epoch:100/16, Accuracy:93.36, Loss:0.1017
+2023-05-20 18:27:17,815 - MLP - INFO - Epoch:17
+2023-05-20 18:27:17,815 - MLP - INFO - Test: Accuracy: 92.99%, Loss: 0.1043
+2023-05-20 18:27:21,161 - MLP - INFO - Train:Step/Epoch:0/17, Accuracy:91.21, Loss:0.1035
+2023-05-20 18:27:21,768 - MLP - INFO - Train:Step/Epoch:50/17, Accuracy:94.73, Loss:0.0953
+2023-05-20 18:27:22,309 - MLP - INFO - Train:Step/Epoch:100/17, Accuracy:92.77, Loss:0.0993
+2023-05-20 18:27:26,782 - MLP - INFO - Epoch:18
+2023-05-20 18:27:26,783 - MLP - INFO - Test: Accuracy: 93.14%, Loss: 0.1023
+2023-05-20 18:27:30,142 - MLP - INFO - Train:Step/Epoch:0/18, Accuracy:90.82, Loss:0.1138
+2023-05-20 18:27:30,835 - MLP - INFO - Train:Step/Epoch:50/18, Accuracy:93.16, Loss:0.0984
+2023-05-20 18:27:31,356 - MLP - INFO - Train:Step/Epoch:100/18, Accuracy:91.21, Loss:0.1123
+2023-05-20 18:27:35,964 - MLP - INFO - Epoch:19
+2023-05-20 18:27:35,965 - MLP - INFO - Test: Accuracy: 93.15%, Loss: 0.1013
+2023-05-20 18:27:39,403 - MLP - INFO - Train:Step/Epoch:0/19, Accuracy:92.97, Loss:0.0955
+2023-05-20 18:27:40,014 - MLP - INFO - Train:Step/Epoch:50/19, Accuracy:94.53, Loss:0.0933
+2023-05-20 18:27:40,538 - MLP - INFO - Train:Step/Epoch:100/19, Accuracy:92.97, Loss:0.0989
+2023-05-20 18:27:45,138 - MLP - INFO - Epoch:20
+2023-05-20 18:27:45,139 - MLP - INFO - Test: Accuracy: 93.43%, Loss: 0.0993
+2023-05-20 18:27:48,621 - MLP - INFO - Train:Step/Epoch:0/20, Accuracy:93.16, Loss:0.1024
+2023-05-20 18:27:49,196 - MLP - INFO - Train:Step/Epoch:50/20, Accuracy:94.92, Loss:0.0945
+2023-05-20 18:27:49,711 - MLP - INFO - Train:Step/Epoch:100/20, Accuracy:94.53, Loss:0.1002
+2023-05-20 18:27:54,211 - MLP - INFO - Epoch:21
+2023-05-20 18:27:54,212 - MLP - INFO - Test: Accuracy: 93.35%, Loss: 0.0986
+2023-05-20 18:27:57,572 - MLP - INFO - Train:Step/Epoch:0/21, Accuracy:92.58, Loss:0.1032
+2023-05-20 18:27:58,261 - MLP - INFO - Train:Step/Epoch:50/21, Accuracy:93.16, Loss:0.0919
+2023-05-20 18:27:58,796 - MLP - INFO - Train:Step/Epoch:100/21, Accuracy:91.99, Loss:0.1023
+2023-05-20 18:28:03,303 - MLP - INFO - Epoch:22
+2023-05-20 18:28:03,303 - MLP - INFO - Test: Accuracy: 93.46%, Loss: 0.0976
+2023-05-20 18:28:06,663 - MLP - INFO - Train:Step/Epoch:0/22, Accuracy:92.97, Loss:0.1026
+2023-05-20 18:28:07,400 - MLP - INFO - Train:Step/Epoch:50/22, Accuracy:93.95, Loss:0.0981
+2023-05-20 18:28:07,917 - MLP - INFO - Train:Step/Epoch:100/22, Accuracy:94.34, Loss:0.0946
+2023-05-20 18:28:12,351 - MLP - INFO - Epoch:23
+2023-05-20 18:28:12,351 - MLP - INFO - Test: Accuracy: 93.51%, Loss: 0.0965
+2023-05-20 18:28:15,841 - MLP - INFO - Train:Step/Epoch:0/23, Accuracy:94.14, Loss:0.0935
+2023-05-20 18:28:16,456 - MLP - INFO - Train:Step/Epoch:50/23, Accuracy:93.75, Loss:0.0951
+2023-05-20 18:28:16,982 - MLP - INFO - Train:Step/Epoch:100/23, Accuracy:92.97, Loss:0.0982
+2023-05-20 18:28:21,602 - MLP - INFO - Epoch:24
+2023-05-20 18:28:21,603 - MLP - INFO - Test: Accuracy: 93.48%, Loss: 0.0958
+2023-05-20 18:28:25,052 - MLP - INFO - Train:Step/Epoch:0/24, Accuracy:94.34, Loss:0.0970
+2023-05-20 18:28:25,641 - MLP - INFO - Train:Step/Epoch:50/24, Accuracy:94.14, Loss:0.0915
+2023-05-20 18:28:26,168 - MLP - INFO - Train:Step/Epoch:100/24, Accuracy:93.36, Loss:0.1002
+2023-05-20 18:28:30,679 - MLP - INFO - Epoch:25
+2023-05-20 18:28:30,679 - MLP - INFO - Test: Accuracy: 93.61%, Loss: 0.0944
+2023-05-20 18:28:34,079 - MLP - INFO - Train:Step/Epoch:0/25, Accuracy:93.95, Loss:0.0966
+2023-05-20 18:28:34,642 - MLP - INFO - Train:Step/Epoch:50/25, Accuracy:95.31, Loss:0.0967
+2023-05-20 18:28:35,180 - MLP - INFO - Train:Step/Epoch:100/25, Accuracy:91.41, Loss:0.1068
+2023-05-20 18:28:39,779 - MLP - INFO - Epoch:26
+2023-05-20 18:28:39,779 - MLP - INFO - Test: Accuracy: 93.77%, Loss: 0.0936
+2023-05-20 18:28:42,937 - MLP - INFO - Train:Step/Epoch:0/26, Accuracy:94.14, Loss:0.0937
+2023-05-20 18:28:43,740 - MLP - INFO - Train:Step/Epoch:50/26, Accuracy:94.73, Loss:0.0864
+2023-05-20 18:28:44,261 - MLP - INFO - Train:Step/Epoch:100/26, Accuracy:93.16, Loss:0.0990
+2023-05-20 18:28:48,676 - MLP - INFO - Epoch:27
+2023-05-20 18:28:48,677 - MLP - INFO - Test: Accuracy: 93.75%, Loss: 0.0929
+2023-05-20 18:28:51,752 - MLP - INFO - Train:Step/Epoch:0/27, Accuracy:94.34, Loss:0.0934
+2023-05-20 18:28:52,630 - MLP - INFO - Train:Step/Epoch:50/27, Accuracy:95.12, Loss:0.0914
+2023-05-20 18:28:53,151 - MLP - INFO - Train:Step/Epoch:100/27, Accuracy:91.60, Loss:0.0931
+2023-05-20 18:28:57,557 - MLP - INFO - Epoch:28
+2023-05-20 18:28:57,557 - MLP - INFO - Test: Accuracy: 93.83%, Loss: 0.0920
+2023-05-20 18:29:00,992 - MLP - INFO - Train:Step/Epoch:0/28, Accuracy:93.55, Loss:0.0920
+2023-05-20 18:29:01,526 - MLP - INFO - Train:Step/Epoch:50/28, Accuracy:93.16, Loss:0.1022
+2023-05-20 18:29:02,057 - MLP - INFO - Train:Step/Epoch:100/28, Accuracy:94.34, Loss:0.0924
+2023-05-20 18:29:06,629 - MLP - INFO - Epoch:29
+2023-05-20 18:29:06,629 - MLP - INFO - Test: Accuracy: 93.96%, Loss: 0.0912
+2023-05-20 18:29:09,910 - MLP - INFO - Train:Step/Epoch:0/29, Accuracy:94.92, Loss:0.0882
+2023-05-20 18:29:10,623 - MLP - INFO - Train:Step/Epoch:50/29, Accuracy:91.60, Loss:0.0955
+2023-05-20 18:29:11,148 - MLP - INFO - Train:Step/Epoch:100/29, Accuracy:95.31, Loss:0.0813
+2023-05-20 18:29:15,662 - MLP - INFO - Epoch:30
+2023-05-20 18:29:15,662 - MLP - INFO - Test: Accuracy: 93.94%, Loss: 0.0905
+2023-05-20 18:29:19,037 - MLP - INFO - Train:Step/Epoch:0/30, Accuracy:95.70, Loss:0.0844
+2023-05-20 18:29:19,616 - MLP - INFO - Train:Step/Epoch:50/30, Accuracy:93.75, Loss:0.0922
+2023-05-20 18:29:20,141 - MLP - INFO - Train:Step/Epoch:100/30, Accuracy:93.95, Loss:0.0868
+2023-05-20 18:29:24,693 - MLP - INFO - Epoch:31
+2023-05-20 18:29:24,693 - MLP - INFO - Test: Accuracy: 94.11%, Loss: 0.0897
+2023-05-20 18:29:27,992 - MLP - INFO - Train:Step/Epoch:0/31, Accuracy:92.97, Loss:0.0941
+2023-05-20 18:29:28,693 - MLP - INFO - Train:Step/Epoch:50/31, Accuracy:95.31, Loss:0.0823
+2023-05-20 18:29:29,221 - MLP - INFO - Train:Step/Epoch:100/31, Accuracy:94.34, Loss:0.0920
+2023-05-20 18:29:33,698 - MLP - INFO - Epoch:32
+2023-05-20 18:29:33,698 - MLP - INFO - Test: Accuracy: 94.19%, Loss: 0.0889
+2023-05-20 18:29:36,791 - MLP - INFO - Train:Step/Epoch:0/32, Accuracy:92.77, Loss:0.0975
+2023-05-20 18:29:37,659 - MLP - INFO - Train:Step/Epoch:50/32, Accuracy:93.95, Loss:0.0851
+2023-05-20 18:29:38,193 - MLP - INFO - Train:Step/Epoch:100/32, Accuracy:93.55, Loss:0.0901
+2023-05-20 18:29:42,654 - MLP - INFO - Epoch:33
+2023-05-20 18:29:42,654 - MLP - INFO - Test: Accuracy: 94.21%, Loss: 0.0885
+2023-05-20 18:29:46,149 - MLP - INFO - Train:Step/Epoch:0/33, Accuracy:94.14, Loss:0.0849
+2023-05-20 18:29:46,780 - MLP - INFO - Train:Step/Epoch:50/33, Accuracy:94.53, Loss:0.0887
+2023-05-20 18:29:47,303 - MLP - INFO - Train:Step/Epoch:100/33, Accuracy:94.14, Loss:0.0879
+2023-05-20 18:29:51,794 - MLP - INFO - Epoch:34
+2023-05-20 18:29:51,794 - MLP - INFO - Test: Accuracy: 94.22%, Loss: 0.0877
+2023-05-20 18:29:54,968 - MLP - INFO - Train:Step/Epoch:0/34, Accuracy:94.14, Loss:0.0915
+2023-05-20 18:29:55,813 - MLP - INFO - Train:Step/Epoch:50/34, Accuracy:94.92, Loss:0.0800
+2023-05-20 18:29:56,339 - MLP - INFO - Train:Step/Epoch:100/34, Accuracy:94.73, Loss:0.0875
+2023-05-20 18:30:00,844 - MLP - INFO - Epoch:35
+2023-05-20 18:30:00,844 - MLP - INFO - Test: Accuracy: 94.31%, Loss: 0.0873
+2023-05-20 18:30:04,154 - MLP - INFO - Train:Step/Epoch:0/35, Accuracy:94.92, Loss:0.0810
+2023-05-20 18:30:04,788 - MLP - INFO - Train:Step/Epoch:50/35, Accuracy:93.16, Loss:0.0930
+2023-05-20 18:30:05,323 - MLP - INFO - Train:Step/Epoch:100/35, Accuracy:92.77, Loss:0.0917
+2023-05-20 18:30:09,797 - MLP - INFO - Epoch:36
+2023-05-20 18:30:09,798 - MLP - INFO - Test: Accuracy: 94.29%, Loss: 0.0867
+2023-05-20 18:30:13,097 - MLP - INFO - Train:Step/Epoch:0/36, Accuracy:94.73, Loss:0.0818
+2023-05-20 18:30:13,725 - MLP - INFO - Train:Step/Epoch:50/36, Accuracy:92.77, Loss:0.0929
+2023-05-20 18:30:14,249 - MLP - INFO - Train:Step/Epoch:100/36, Accuracy:94.34, Loss:0.0891
+2023-05-20 18:30:18,749 - MLP - INFO - Epoch:37
+2023-05-20 18:30:18,749 - MLP - INFO - Test: Accuracy: 94.36%, Loss: 0.0860
+2023-05-20 18:30:22,007 - MLP - INFO - Train:Step/Epoch:0/37, Accuracy:95.12, Loss:0.0779
+2023-05-20 18:30:22,665 - MLP - INFO - Train:Step/Epoch:50/37, Accuracy:94.53, Loss:0.0891
+2023-05-20 18:30:23,196 - MLP - INFO - Train:Step/Epoch:100/37, Accuracy:94.34, Loss:0.0846
+2023-05-20 18:30:27,665 - MLP - INFO - Epoch:38
+2023-05-20 18:30:27,665 - MLP - INFO - Test: Accuracy: 94.36%, Loss: 0.0854
+2023-05-20 18:30:31,143 - MLP - INFO - Train:Step/Epoch:0/38, Accuracy:94.34, Loss:0.0812
+2023-05-20 18:30:31,654 - MLP - INFO - Train:Step/Epoch:50/38, Accuracy:94.53, Loss:0.0849
+2023-05-20 18:30:32,173 - MLP - INFO - Train:Step/Epoch:100/38, Accuracy:93.95, Loss:0.0901
+2023-05-20 18:30:36,658 - MLP - INFO - Epoch:39
+2023-05-20 18:30:36,659 - MLP - INFO - Test: Accuracy: 94.46%, Loss: 0.0850
+2023-05-20 18:30:39,988 - MLP - INFO - Train:Step/Epoch:0/39, Accuracy:95.70, Loss:0.0763
+2023-05-20 18:30:40,659 - MLP - INFO - Train:Step/Epoch:50/39, Accuracy:94.14, Loss:0.0851
+2023-05-20 18:30:41,175 - MLP - INFO - Train:Step/Epoch:100/39, Accuracy:95.31, Loss:0.0841
+2023-05-20 18:30:45,744 - MLP - INFO - Epoch:40
+2023-05-20 18:30:45,744 - MLP - INFO - Test: Accuracy: 94.45%, Loss: 0.0847
+2023-05-20 18:30:49,033 - MLP - INFO - Train:Step/Epoch:0/40, Accuracy:93.75, Loss:0.0912
+2023-05-20 18:30:49,673 - MLP - INFO - Train:Step/Epoch:50/40, Accuracy:92.97, Loss:0.0861
+2023-05-20 18:30:50,199 - MLP - INFO - Train:Step/Epoch:100/40, Accuracy:95.70, Loss:0.0780
+2023-05-20 18:30:54,687 - MLP - INFO - Epoch:41
+2023-05-20 18:30:54,687 - MLP - INFO - Test: Accuracy: 94.54%, Loss: 0.0838
+2023-05-20 18:30:57,909 - MLP - INFO - Train:Step/Epoch:0/41, Accuracy:94.53, Loss:0.0769
+2023-05-20 18:30:58,575 - MLP - INFO - Train:Step/Epoch:50/41, Accuracy:94.73, Loss:0.0824
+2023-05-20 18:30:59,100 - MLP - INFO - Train:Step/Epoch:100/41, Accuracy:96.68, Loss:0.0706
+2023-05-20 18:31:03,595 - MLP - INFO - Epoch:42
+2023-05-20 18:31:03,596 - MLP - INFO - Test: Accuracy: 94.61%, Loss: 0.0835
+2023-05-20 18:31:06,982 - MLP - INFO - Train:Step/Epoch:0/42, Accuracy:95.12, Loss:0.0808
+2023-05-20 18:31:07,503 - MLP - INFO - Train:Step/Epoch:50/42, Accuracy:95.70, Loss:0.0754
+2023-05-20 18:31:08,019 - MLP - INFO - Train:Step/Epoch:100/42, Accuracy:92.77, Loss:0.0885
+2023-05-20 18:31:12,563 - MLP - INFO - Epoch:43
+2023-05-20 18:31:12,563 - MLP - INFO - Test: Accuracy: 94.65%, Loss: 0.0829
+2023-05-20 18:31:15,739 - MLP - INFO - Train:Step/Epoch:0/43, Accuracy:93.75, Loss:0.0890
+2023-05-20 18:31:16,547 - MLP - INFO - Train:Step/Epoch:50/43, Accuracy:94.53, Loss:0.0814
+2023-05-20 18:31:17,066 - MLP - INFO - Train:Step/Epoch:100/43, Accuracy:95.12, Loss:0.0853
+2023-05-20 18:31:21,589 - MLP - INFO - Epoch:44
+2023-05-20 18:31:21,589 - MLP - INFO - Test: Accuracy: 94.73%, Loss: 0.0826
+2023-05-20 18:31:24,991 - MLP - INFO - Train:Step/Epoch:0/44, Accuracy:94.14, Loss:0.0863
+2023-05-20 18:31:25,525 - MLP - INFO - Train:Step/Epoch:50/44, Accuracy:92.19, Loss:0.0852
+2023-05-20 18:31:26,032 - MLP - INFO - Train:Step/Epoch:100/44, Accuracy:93.55, Loss:0.0824
+2023-05-20 18:31:30,559 - MLP - INFO - Epoch:45
+2023-05-20 18:31:30,560 - MLP - INFO - Test: Accuracy: 94.69%, Loss: 0.0822
+2023-05-20 18:31:33,840 - MLP - INFO - Train:Step/Epoch:0/45, Accuracy:93.36, Loss:0.0911
+2023-05-20 18:31:34,530 - MLP - INFO - Train:Step/Epoch:50/45, Accuracy:94.34, Loss:0.0823
+2023-05-20 18:31:35,052 - MLP - INFO - Train:Step/Epoch:100/45, Accuracy:94.73, Loss:0.0826
+2023-05-20 18:31:39,538 - MLP - INFO - Epoch:46
+2023-05-20 18:31:39,538 - MLP - INFO - Test: Accuracy: 94.73%, Loss: 0.0819
+2023-05-20 18:31:42,739 - MLP - INFO - Train:Step/Epoch:0/46, Accuracy:96.68, Loss:0.0720
+2023-05-20 18:31:43,485 - MLP - INFO - Train:Step/Epoch:50/46, Accuracy:96.29, Loss:0.0740
+2023-05-20 18:31:44,002 - MLP - INFO - Train:Step/Epoch:100/46, Accuracy:92.19, Loss:0.0916
+2023-05-20 18:31:48,521 - MLP - INFO - Epoch:47
+2023-05-20 18:31:48,522 - MLP - INFO - Test: Accuracy: 94.79%, Loss: 0.0813
+2023-05-20 18:31:51,919 - MLP - INFO - Train:Step/Epoch:0/47, Accuracy:95.31, Loss:0.0795
+2023-05-20 18:31:52,469 - MLP - INFO - Train:Step/Epoch:50/47, Accuracy:94.73, Loss:0.0794
+2023-05-20 18:31:52,985 - MLP - INFO - Train:Step/Epoch:100/47, Accuracy:96.09, Loss:0.0726
+2023-05-20 18:31:57,347 - MLP - INFO - Epoch:48
+2023-05-20 18:31:57,348 - MLP - INFO - Test: Accuracy: 94.74%, Loss: 0.0810
+2023-05-20 18:32:00,673 - MLP - INFO - Train:Step/Epoch:0/48, Accuracy:93.95, Loss:0.0826
+2023-05-20 18:32:01,387 - MLP - INFO - Train:Step/Epoch:50/48, Accuracy:94.73, Loss:0.0809
+2023-05-20 18:32:01,918 - MLP - INFO - Train:Step/Epoch:100/48, Accuracy:94.92, Loss:0.0764
+2023-05-20 18:32:06,466 - MLP - INFO - Epoch:49
+2023-05-20 18:32:06,466 - MLP - INFO - Test: Accuracy: 94.77%, Loss: 0.0806
+2023-05-20 18:32:09,830 - MLP - INFO - Train:Step/Epoch:0/49, Accuracy:94.53, Loss:0.0827
+2023-05-20 18:32:10,473 - MLP - INFO - Train:Step/Epoch:50/49, Accuracy:93.16, Loss:0.0847
+2023-05-20 18:32:10,992 - MLP - INFO - Train:Step/Epoch:100/49, Accuracy:96.09, Loss:0.0690
+2023-05-20 18:32:15,465 - MLP - INFO - Epoch:50
+2023-05-20 18:32:15,465 - MLP - INFO - Test: Accuracy: 94.86%, Loss: 0.0808
+2023-05-20 18:32:18,798 - MLP - INFO - Train:Step/Epoch:0/50, Accuracy:94.73, Loss:0.0788
+2023-05-20 18:32:19,427 - MLP - INFO - Train:Step/Epoch:50/50, Accuracy:95.31, Loss:0.0784
+2023-05-20 18:32:19,957 - MLP - INFO - Train:Step/Epoch:100/50, Accuracy:92.38, Loss:0.0957
+2023-05-20 18:32:24,510 - MLP - INFO - Epoch:51
+2023-05-20 18:32:24,510 - MLP - INFO - Test: Accuracy: 94.81%, Loss: 0.0799
+2023-05-20 18:32:27,885 - MLP - INFO - Train:Step/Epoch:0/51, Accuracy:95.31, Loss:0.0753
+2023-05-20 18:32:28,495 - MLP - INFO - Train:Step/Epoch:50/51, Accuracy:95.31, Loss:0.0767
+2023-05-20 18:32:29,026 - MLP - INFO - Train:Step/Epoch:100/51, Accuracy:95.31, Loss:0.0730
+2023-05-20 18:32:33,523 - MLP - INFO - Epoch:52
+2023-05-20 18:32:33,523 - MLP - INFO - Test: Accuracy: 94.86%, Loss: 0.0795
+2023-05-20 18:32:36,891 - MLP - INFO - Train:Step/Epoch:0/52, Accuracy:95.31, Loss:0.0787
+2023-05-20 18:32:37,403 - MLP - INFO - Train:Step/Epoch:50/52, Accuracy:95.70, Loss:0.0772
+2023-05-20 18:32:37,926 - MLP - INFO - Train:Step/Epoch:100/52, Accuracy:95.70, Loss:0.0768
+2023-05-20 18:32:42,313 - MLP - INFO - Epoch:53
+2023-05-20 18:32:42,313 - MLP - INFO - Test: Accuracy: 94.86%, Loss: 0.0793
+2023-05-20 18:32:45,598 - MLP - INFO - Train:Step/Epoch:0/53, Accuracy:94.34, Loss:0.0872
+2023-05-20 18:32:46,312 - MLP - INFO - Train:Step/Epoch:50/53, Accuracy:95.31, Loss:0.0779
+2023-05-20 18:32:46,837 - MLP - INFO - Train:Step/Epoch:100/53, Accuracy:96.88, Loss:0.0699
+2023-05-20 18:32:51,352 - MLP - INFO - Epoch:54
+2023-05-20 18:32:51,352 - MLP - INFO - Test: Accuracy: 94.91%, Loss: 0.0786
+2023-05-20 18:32:54,730 - MLP - INFO - Train:Step/Epoch:0/54, Accuracy:95.70, Loss:0.0739
+2023-05-20 18:32:55,428 - MLP - INFO - Train:Step/Epoch:50/54, Accuracy:94.34, Loss:0.0759
+2023-05-20 18:32:55,951 - MLP - INFO - Train:Step/Epoch:100/54, Accuracy:95.70, Loss:0.0743
+2023-05-20 18:33:00,456 - MLP - INFO - Epoch:55
+2023-05-20 18:33:00,457 - MLP - INFO - Test: Accuracy: 94.98%, Loss: 0.0783
+2023-05-20 18:33:03,751 - MLP - INFO - Train:Step/Epoch:0/55, Accuracy:94.34, Loss:0.0793
+2023-05-20 18:33:04,450 - MLP - INFO - Train:Step/Epoch:50/55, Accuracy:95.31, Loss:0.0789
+2023-05-20 18:33:04,982 - MLP - INFO - Train:Step/Epoch:100/55, Accuracy:96.68, Loss:0.0675
+2023-05-20 18:33:09,495 - MLP - INFO - Epoch:56
+2023-05-20 18:33:09,495 - MLP - INFO - Test: Accuracy: 95.01%, Loss: 0.0784
+2023-05-20 18:33:12,692 - MLP - INFO - Train:Step/Epoch:0/56, Accuracy:95.12, Loss:0.0770
+2023-05-20 18:33:13,462 - MLP - INFO - Train:Step/Epoch:50/56, Accuracy:93.16, Loss:0.0830
+2023-05-20 18:33:13,970 - MLP - INFO - Train:Step/Epoch:100/56, Accuracy:95.90, Loss:0.0722
+2023-05-20 18:33:18,562 - MLP - INFO - Epoch:57
+2023-05-20 18:33:18,562 - MLP - INFO - Test: Accuracy: 95.04%, Loss: 0.0776
+2023-05-20 18:33:21,921 - MLP - INFO - Train:Step/Epoch:0/57, Accuracy:95.31, Loss:0.0751
+2023-05-20 18:33:22,518 - MLP - INFO - Train:Step/Epoch:50/57, Accuracy:95.31, Loss:0.0770
+2023-05-20 18:33:23,047 - MLP - INFO - Train:Step/Epoch:100/57, Accuracy:94.53, Loss:0.0781
+2023-05-20 18:33:27,458 - MLP - INFO - Epoch:58
+2023-05-20 18:33:27,458 - MLP - INFO - Test: Accuracy: 95.03%, Loss: 0.0778
+2023-05-20 18:33:30,843 - MLP - INFO - Train:Step/Epoch:0/58, Accuracy:95.31, Loss:0.0762
+2023-05-20 18:33:31,503 - MLP - INFO - Train:Step/Epoch:50/58, Accuracy:96.29, Loss:0.0733
+2023-05-20 18:33:32,016 - MLP - INFO - Train:Step/Epoch:100/58, Accuracy:96.29, Loss:0.0718
+2023-05-20 18:33:36,615 - MLP - INFO - Epoch:59
+2023-05-20 18:33:36,616 - MLP - INFO - Test: Accuracy: 95.12%, Loss: 0.0772
+2023-05-20 18:33:39,864 - MLP - INFO - Train:Step/Epoch:0/59, Accuracy:95.31, Loss:0.0704
+2023-05-20 18:33:40,552 - MLP - INFO - Train:Step/Epoch:50/59, Accuracy:94.92, Loss:0.0745
+2023-05-20 18:33:41,072 - MLP - INFO - Train:Step/Epoch:100/59, Accuracy:94.14, Loss:0.0772
+2023-05-20 18:33:45,577 - MLP - INFO - Epoch:60
+2023-05-20 18:33:45,577 - MLP - INFO - Test: Accuracy: 95.11%, Loss: 0.0769
+2023-05-20 18:33:48,842 - MLP - INFO - Train:Step/Epoch:0/60, Accuracy:94.53, Loss:0.0774
+2023-05-20 18:33:49,546 - MLP - INFO - Train:Step/Epoch:50/60, Accuracy:94.53, Loss:0.0765
+2023-05-20 18:33:50,066 - MLP - INFO - Train:Step/Epoch:100/60, Accuracy:93.16, Loss:0.0821
+2023-05-20 18:33:54,558 - MLP - INFO - Epoch:61
+2023-05-20 18:33:54,559 - MLP - INFO - Test: Accuracy: 95.12%, Loss: 0.0767
+2023-05-20 18:33:57,916 - MLP - INFO - Train:Step/Epoch:0/61, Accuracy:95.31, Loss:0.0755
+2023-05-20 18:33:58,474 - MLP - INFO - Train:Step/Epoch:50/61, Accuracy:95.51, Loss:0.0760
+2023-05-20 18:33:58,999 - MLP - INFO - Train:Step/Epoch:100/61, Accuracy:96.29, Loss:0.0691
+2023-05-20 18:34:03,510 - MLP - INFO - Epoch:62
+2023-05-20 18:34:03,511 - MLP - INFO - Test: Accuracy: 95.08%, Loss: 0.0767
+2023-05-20 18:34:06,827 - MLP - INFO - Train:Step/Epoch:0/62, Accuracy:95.12, Loss:0.0691
+2023-05-20 18:34:07,437 - MLP - INFO - Train:Step/Epoch:50/62, Accuracy:94.92, Loss:0.0710
+2023-05-20 18:34:07,965 - MLP - INFO - Train:Step/Epoch:100/62, Accuracy:95.70, Loss:0.0690
+2023-05-20 18:34:12,405 - MLP - INFO - Epoch:63
+2023-05-20 18:34:12,405 - MLP - INFO - Test: Accuracy: 95.16%, Loss: 0.0760
+2023-05-20 18:34:15,611 - MLP - INFO - Train:Step/Epoch:0/63, Accuracy:95.31, Loss:0.0755
+2023-05-20 18:34:16,421 - MLP - INFO - Train:Step/Epoch:50/63, Accuracy:95.70, Loss:0.0697
+2023-05-20 18:34:16,940 - MLP - INFO - Train:Step/Epoch:100/63, Accuracy:96.29, Loss:0.0661
+2023-05-20 18:34:21,458 - MLP - INFO - Epoch:64
+2023-05-20 18:34:21,458 - MLP - INFO - Test: Accuracy: 95.18%, Loss: 0.0759
+2023-05-20 18:34:24,813 - MLP - INFO - Train:Step/Epoch:0/64, Accuracy:94.92, Loss:0.0718
+2023-05-20 18:34:25,451 - MLP - INFO - Train:Step/Epoch:50/64, Accuracy:96.48, Loss:0.0701
+2023-05-20 18:34:25,971 - MLP - INFO - Train:Step/Epoch:100/64, Accuracy:94.73, Loss:0.0725
+2023-05-20 18:34:30,442 - MLP - INFO - Epoch:65
+2023-05-20 18:34:30,442 - MLP - INFO - Test: Accuracy: 95.15%, Loss: 0.0756
+2023-05-20 18:34:33,762 - MLP - INFO - Train:Step/Epoch:0/65, Accuracy:95.90, Loss:0.0703
+2023-05-20 18:34:34,442 - MLP - INFO - Train:Step/Epoch:50/65, Accuracy:95.12, Loss:0.0694
+2023-05-20 18:34:34,977 - MLP - INFO - Train:Step/Epoch:100/65, Accuracy:96.48, Loss:0.0686
+2023-05-20 18:34:39,427 - MLP - INFO - Epoch:66
+2023-05-20 18:34:39,427 - MLP - INFO - Test: Accuracy: 95.25%, Loss: 0.0752
+2023-05-20 18:34:42,589 - MLP - INFO - Train:Step/Epoch:0/66, Accuracy:94.53, Loss:0.0777
+2023-05-20 18:34:43,416 - MLP - INFO - Train:Step/Epoch:50/66, Accuracy:96.88, Loss:0.0629
+2023-05-20 18:34:43,934 - MLP - INFO - Train:Step/Epoch:100/66, Accuracy:96.48, Loss:0.0655
+2023-05-20 18:34:48,442 - MLP - INFO - Epoch:67
+2023-05-20 18:34:48,442 - MLP - INFO - Test: Accuracy: 95.27%, Loss: 0.0749
+2023-05-20 18:34:51,585 - MLP - INFO - Train:Step/Epoch:0/67, Accuracy:95.90, Loss:0.0748
+2023-05-20 18:34:52,384 - MLP - INFO - Train:Step/Epoch:50/67, Accuracy:94.53, Loss:0.0720
+2023-05-20 18:34:52,911 - MLP - INFO - Train:Step/Epoch:100/67, Accuracy:93.95, Loss:0.0800
+2023-05-20 18:34:57,322 - MLP - INFO - Epoch:68
+2023-05-20 18:34:57,322 - MLP - INFO - Test: Accuracy: 95.08%, Loss: 0.0752
+2023-05-20 18:35:00,567 - MLP - INFO - Train:Step/Epoch:0/68, Accuracy:94.73, Loss:0.0829
+2023-05-20 18:35:01,283 - MLP - INFO - Train:Step/Epoch:50/68, Accuracy:95.90, Loss:0.0708
+2023-05-20 18:35:01,801 - MLP - INFO - Train:Step/Epoch:100/68, Accuracy:96.68, Loss:0.0610
+2023-05-20 18:35:06,266 - MLP - INFO - Epoch:69
+2023-05-20 18:35:06,267 - MLP - INFO - Test: Accuracy: 95.21%, Loss: 0.0746
+2023-05-20 18:35:09,568 - MLP - INFO - Train:Step/Epoch:0/69, Accuracy:94.53, Loss:0.0764
+2023-05-20 18:35:10,163 - MLP - INFO - Train:Step/Epoch:50/69, Accuracy:96.68, Loss:0.0685
+2023-05-20 18:35:10,687 - MLP - INFO - Train:Step/Epoch:100/69, Accuracy:95.31, Loss:0.0713
+2023-05-20 18:35:15,161 - MLP - INFO - Epoch:70
+2023-05-20 18:35:15,162 - MLP - INFO - Test: Accuracy: 95.35%, Loss: 0.0741
+2023-05-20 18:35:18,535 - MLP - INFO - Train:Step/Epoch:0/70, Accuracy:95.90, Loss:0.0741
+2023-05-20 18:35:19,103 - MLP - INFO - Train:Step/Epoch:50/70, Accuracy:96.09, Loss:0.0657
+2023-05-20 18:35:19,630 - MLP - INFO - Train:Step/Epoch:100/70, Accuracy:96.68, Loss:0.0639
+2023-05-20 18:35:24,065 - MLP - INFO - Epoch:71
+2023-05-20 18:35:24,066 - MLP - INFO - Test: Accuracy: 95.27%, Loss: 0.0738
+2023-05-20 18:35:27,392 - MLP - INFO - Train:Step/Epoch:0/71, Accuracy:95.51, Loss:0.0760
+2023-05-20 18:35:27,959 - MLP - INFO - Train:Step/Epoch:50/71, Accuracy:94.92, Loss:0.0772
+2023-05-20 18:35:28,484 - MLP - INFO - Train:Step/Epoch:100/71, Accuracy:96.29, Loss:0.0732
+2023-05-20 18:35:32,933 - MLP - INFO - Epoch:72
+2023-05-20 18:35:32,934 - MLP - INFO - Test: Accuracy: 95.21%, Loss: 0.0738
+2023-05-20 18:35:36,146 - MLP - INFO - Train:Step/Epoch:0/72, Accuracy:95.12, Loss:0.0757
+2023-05-20 18:35:36,884 - MLP - INFO - Train:Step/Epoch:50/72, Accuracy:95.90, Loss:0.0725
+2023-05-20 18:35:37,406 - MLP - INFO - Train:Step/Epoch:100/72, Accuracy:95.70, Loss:0.0652
+2023-05-20 18:35:41,834 - MLP - INFO - Epoch:73
+2023-05-20 18:35:41,835 - MLP - INFO - Test: Accuracy: 95.28%, Loss: 0.0736
+2023-05-20 18:35:45,041 - MLP - INFO - Train:Step/Epoch:0/73, Accuracy:96.09, Loss:0.0658
+2023-05-20 18:35:45,733 - MLP - INFO - Train:Step/Epoch:50/73, Accuracy:94.73, Loss:0.0749
+2023-05-20 18:35:46,259 - MLP - INFO - Train:Step/Epoch:100/73, Accuracy:94.53, Loss:0.0696
+2023-05-20 18:35:50,711 - MLP - INFO - Epoch:74
+2023-05-20 18:35:50,711 - MLP - INFO - Test: Accuracy: 95.23%, Loss: 0.0733
+2023-05-20 18:35:53,951 - MLP - INFO - Train:Step/Epoch:0/74, Accuracy:93.95, Loss:0.0747
+2023-05-20 18:35:54,592 - MLP - INFO - Train:Step/Epoch:50/74, Accuracy:96.48, Loss:0.0681
+2023-05-20 18:35:55,113 - MLP - INFO - Train:Step/Epoch:100/74, Accuracy:95.90, Loss:0.0602
+2023-05-20 18:35:59,659 - MLP - INFO - Epoch:75
+2023-05-20 18:35:59,661 - MLP - INFO - Test: Accuracy: 95.31%, Loss: 0.0729
+2023-05-20 18:36:02,879 - MLP - INFO - Train:Step/Epoch:0/75, Accuracy:95.12, Loss:0.0757
+2023-05-20 18:36:03,617 - MLP - INFO - Train:Step/Epoch:50/75, Accuracy:96.09, Loss:0.0672
+2023-05-20 18:36:04,132 - MLP - INFO - Train:Step/Epoch:100/75, Accuracy:95.51, Loss:0.0717
+2023-05-20 18:36:08,626 - MLP - INFO - Epoch:76
+2023-05-20 18:36:08,626 - MLP - INFO - Test: Accuracy: 95.30%, Loss: 0.0728
+2023-05-20 18:36:11,915 - MLP - INFO - Train:Step/Epoch:0/76, Accuracy:96.09, Loss:0.0650
+2023-05-20 18:36:12,645 - MLP - INFO - Train:Step/Epoch:50/76, Accuracy:97.07, Loss:0.0604
+2023-05-20 18:36:13,170 - MLP - INFO - Train:Step/Epoch:100/76, Accuracy:96.48, Loss:0.0634
+2023-05-20 18:36:17,618 - MLP - INFO - Epoch:77
+2023-05-20 18:36:17,618 - MLP - INFO - Test: Accuracy: 95.32%, Loss: 0.0728
+2023-05-20 18:36:20,925 - MLP - INFO - Train:Step/Epoch:0/77, Accuracy:95.51, Loss:0.0706
+2023-05-20 18:36:21,536 - MLP - INFO - Train:Step/Epoch:50/77, Accuracy:96.09, Loss:0.0660
+2023-05-20 18:36:22,070 - MLP - INFO - Train:Step/Epoch:100/77, Accuracy:96.48, Loss:0.0720
+2023-05-20 18:36:26,509 - MLP - INFO - Epoch:78
+2023-05-20 18:36:26,509 - MLP - INFO - Test: Accuracy: 95.28%, Loss: 0.0725
+2023-05-20 18:36:29,835 - MLP - INFO - Train:Step/Epoch:0/78, Accuracy:96.09, Loss:0.0666
+2023-05-20 18:36:30,469 - MLP - INFO - Train:Step/Epoch:50/78, Accuracy:95.51, Loss:0.0702
+2023-05-20 18:36:30,994 - MLP - INFO - Train:Step/Epoch:100/78, Accuracy:94.73, Loss:0.0791
+2023-05-20 18:36:35,518 - MLP - INFO - Epoch:79
+2023-05-20 18:36:35,519 - MLP - INFO - Test: Accuracy: 95.32%, Loss: 0.0724
+2023-05-20 18:36:38,879 - MLP - INFO - Train:Step/Epoch:0/79, Accuracy:96.88, Loss:0.0603
+2023-05-20 18:36:39,450 - MLP - INFO - Train:Step/Epoch:50/79, Accuracy:96.88, Loss:0.0639
+2023-05-20 18:36:39,989 - MLP - INFO - Train:Step/Epoch:100/79, Accuracy:97.07, Loss:0.0585
+2023-05-20 18:36:44,474 - MLP - INFO - Epoch:80
+2023-05-20 18:36:44,475 - MLP - INFO - Test: Accuracy: 95.36%, Loss: 0.0719
+2023-05-20 18:36:47,823 - MLP - INFO - Train:Step/Epoch:0/80, Accuracy:94.34, Loss:0.0721
+2023-05-20 18:36:48,422 - MLP - INFO - Train:Step/Epoch:50/80, Accuracy:96.09, Loss:0.0679
+2023-05-20 18:36:48,938 - MLP - INFO - Train:Step/Epoch:100/80, Accuracy:96.29, Loss:0.0662
+2023-05-20 18:36:53,415 - MLP - INFO - Epoch:81
+2023-05-20 18:36:53,415 - MLP - INFO - Test: Accuracy: 95.33%, Loss: 0.0720
+2023-05-20 18:36:56,699 - MLP - INFO - Train:Step/Epoch:0/81, Accuracy:95.12, Loss:0.0695
+2023-05-20 18:36:57,302 - MLP - INFO - Train:Step/Epoch:50/81, Accuracy:96.68, Loss:0.0736
+2023-05-20 18:36:57,824 - MLP - INFO - Train:Step/Epoch:100/81, Accuracy:95.90, Loss:0.0652
+2023-05-20 18:37:02,263 - MLP - INFO - Epoch:82
+2023-05-20 18:37:02,263 - MLP - INFO - Test: Accuracy: 95.38%, Loss: 0.0713
+2023-05-20 18:37:05,586 - MLP - INFO - Train:Step/Epoch:0/82, Accuracy:96.88, Loss:0.0648
+2023-05-20 18:37:06,180 - MLP - INFO - Train:Step/Epoch:50/82, Accuracy:95.12, Loss:0.0712
+2023-05-20 18:37:06,713 - MLP - INFO - Train:Step/Epoch:100/82, Accuracy:96.68, Loss:0.0614
+2023-05-20 18:37:11,169 - MLP - INFO - Epoch:83
+2023-05-20 18:37:11,169 - MLP - INFO - Test: Accuracy: 95.45%, Loss: 0.0713
+2023-05-20 18:37:14,374 - MLP - INFO - Train:Step/Epoch:0/83, Accuracy:96.29, Loss:0.0659
+2023-05-20 18:37:15,127 - MLP - INFO - Train:Step/Epoch:50/83, Accuracy:94.73, Loss:0.0727
+2023-05-20 18:37:15,646 - MLP - INFO - Train:Step/Epoch:100/83, Accuracy:93.95, Loss:0.0749
+2023-05-20 18:37:20,137 - MLP - INFO - Epoch:84
+2023-05-20 18:37:20,137 - MLP - INFO - Test: Accuracy: 95.37%, Loss: 0.0710
+2023-05-20 18:37:23,520 - MLP - INFO - Train:Step/Epoch:0/84, Accuracy:96.48, Loss:0.0685
+2023-05-20 18:37:24,065 - MLP - INFO - Train:Step/Epoch:50/84, Accuracy:96.29, Loss:0.0650
+2023-05-20 18:37:24,588 - MLP - INFO - Train:Step/Epoch:100/84, Accuracy:95.70, Loss:0.0742
+2023-05-20 18:37:29,060 - MLP - INFO - Epoch:85
+2023-05-20 18:37:29,060 - MLP - INFO - Test: Accuracy: 95.50%, Loss: 0.0706
+2023-05-20 18:37:32,284 - MLP - INFO - Train:Step/Epoch:0/85, Accuracy:95.90, Loss:0.0667
+2023-05-20 18:37:33,059 - MLP - INFO - Train:Step/Epoch:50/85, Accuracy:94.92, Loss:0.0705
+2023-05-20 18:37:33,571 - MLP - INFO - Train:Step/Epoch:100/85, Accuracy:96.68, Loss:0.0604
+2023-05-20 18:37:38,021 - MLP - INFO - Epoch:86
+2023-05-20 18:37:38,022 - MLP - INFO - Test: Accuracy: 95.38%, Loss: 0.0709
+2023-05-20 18:37:41,383 - MLP - INFO - Train:Step/Epoch:0/86, Accuracy:96.09, Loss:0.0659
+2023-05-20 18:37:41,966 - MLP - INFO - Train:Step/Epoch:50/86, Accuracy:96.88, Loss:0.0611
+2023-05-20 18:37:42,479 - MLP - INFO - Train:Step/Epoch:100/86, Accuracy:96.48, Loss:0.0655
+2023-05-20 18:37:46,929 - MLP - INFO - Epoch:87
+2023-05-20 18:37:46,929 - MLP - INFO - Test: Accuracy: 95.44%, Loss: 0.0705
+2023-05-20 18:37:50,240 - MLP - INFO - Train:Step/Epoch:0/87, Accuracy:94.34, Loss:0.0702
+2023-05-20 18:37:50,857 - MLP - INFO - Train:Step/Epoch:50/87, Accuracy:97.85, Loss:0.0578
+2023-05-20 18:37:51,384 - MLP - INFO - Train:Step/Epoch:100/87, Accuracy:96.68, Loss:0.0704
+2023-05-20 18:37:55,855 - MLP - INFO - Epoch:88
+2023-05-20 18:37:55,855 - MLP - INFO - Test: Accuracy: 95.53%, Loss: 0.0702
+2023-05-20 18:37:59,183 - MLP - INFO - Train:Step/Epoch:0/88, Accuracy:95.51, Loss:0.0682
+2023-05-20 18:37:59,748 - MLP - INFO - Train:Step/Epoch:50/88, Accuracy:96.88, Loss:0.0566
+2023-05-20 18:38:00,266 - MLP - INFO - Train:Step/Epoch:100/88, Accuracy:95.31, Loss:0.0678
+2023-05-20 18:38:04,770 - MLP - INFO - Epoch:89
+2023-05-20 18:38:04,770 - MLP - INFO - Test: Accuracy: 95.40%, Loss: 0.0706
+2023-05-20 18:38:08,124 - MLP - INFO - Train:Step/Epoch:0/89, Accuracy:96.09, Loss:0.0677
+2023-05-20 18:38:08,724 - MLP - INFO - Train:Step/Epoch:50/89, Accuracy:95.31, Loss:0.0661
+2023-05-20 18:38:09,253 - MLP - INFO - Train:Step/Epoch:100/89, Accuracy:95.31, Loss:0.0656
+2023-05-20 18:38:13,720 - MLP - INFO - Epoch:90
+2023-05-20 18:38:13,721 - MLP - INFO - Test: Accuracy: 95.41%, Loss: 0.0702
+2023-05-20 18:38:17,046 - MLP - INFO - Train:Step/Epoch:0/90, Accuracy:96.09, Loss:0.0654
+2023-05-20 18:38:17,682 - MLP - INFO - Train:Step/Epoch:50/90, Accuracy:96.48, Loss:0.0645
+2023-05-20 18:38:18,214 - MLP - INFO - Train:Step/Epoch:100/90, Accuracy:95.12, Loss:0.0724
+2023-05-20 18:38:22,692 - MLP - INFO - Epoch:91
+2023-05-20 18:38:22,692 - MLP - INFO - Test: Accuracy: 95.47%, Loss: 0.0700
+2023-05-20 18:38:26,013 - MLP - INFO - Train:Step/Epoch:0/91, Accuracy:96.68, Loss:0.0654
+2023-05-20 18:38:26,649 - MLP - INFO - Train:Step/Epoch:50/91, Accuracy:97.66, Loss:0.0618
+2023-05-20 18:38:27,175 - MLP - INFO - Train:Step/Epoch:100/91, Accuracy:95.70, Loss:0.0702
+2023-05-20 18:38:31,665 - MLP - INFO - Epoch:92
+2023-05-20 18:38:31,665 - MLP - INFO - Test: Accuracy: 95.59%, Loss: 0.0699
+2023-05-20 18:38:34,950 - MLP - INFO - Train:Step/Epoch:0/92, Accuracy:95.90, Loss:0.0674
+2023-05-20 18:38:35,572 - MLP - INFO - Train:Step/Epoch:50/92, Accuracy:96.29, Loss:0.0658
+2023-05-20 18:38:36,103 - MLP - INFO - Train:Step/Epoch:100/92, Accuracy:96.68, Loss:0.0681
+2023-05-20 18:38:40,560 - MLP - INFO - Epoch:93
+2023-05-20 18:38:40,560 - MLP - INFO - Test: Accuracy: 95.58%, Loss: 0.0695
+2023-05-20 18:38:43,843 - MLP - INFO - Train:Step/Epoch:0/93, Accuracy:95.90, Loss:0.0691
+2023-05-20 18:38:44,471 - MLP - INFO - Train:Step/Epoch:50/93, Accuracy:96.48, Loss:0.0606
+2023-05-20 18:38:44,997 - MLP - INFO - Train:Step/Epoch:100/93, Accuracy:96.68, Loss:0.0606
+2023-05-20 18:38:49,543 - MLP - INFO - Epoch:94
+2023-05-20 18:38:49,544 - MLP - INFO - Test: Accuracy: 95.50%, Loss: 0.0692
+2023-05-20 18:38:52,924 - MLP - INFO - Train:Step/Epoch:0/94, Accuracy:95.12, Loss:0.0691
+2023-05-20 18:38:53,488 - MLP - INFO - Train:Step/Epoch:50/94, Accuracy:96.09, Loss:0.0628
+2023-05-20 18:38:54,013 - MLP - INFO - Train:Step/Epoch:100/94, Accuracy:96.88, Loss:0.0619
+2023-05-20 18:38:58,529 - MLP - INFO - Epoch:95
+2023-05-20 18:38:58,529 - MLP - INFO - Test: Accuracy: 95.58%, Loss: 0.0696
+2023-05-20 18:39:01,988 - MLP - INFO - Train:Step/Epoch:0/95, Accuracy:95.12, Loss:0.0708
+2023-05-20 18:39:02,487 - MLP - INFO - Train:Step/Epoch:50/95, Accuracy:95.70, Loss:0.0709
+2023-05-20 18:39:03,009 - MLP - INFO - Train:Step/Epoch:100/95, Accuracy:97.27, Loss:0.0631
+2023-05-20 18:39:07,498 - MLP - INFO - Epoch:96
+2023-05-20 18:39:07,499 - MLP - INFO - Test: Accuracy: 95.55%, Loss: 0.0691
+2023-05-20 18:39:10,795 - MLP - INFO - Train:Step/Epoch:0/96, Accuracy:96.48, Loss:0.0602
+2023-05-20 18:39:11,464 - MLP - INFO - Train:Step/Epoch:50/96, Accuracy:94.73, Loss:0.0708
+2023-05-20 18:39:12,002 - MLP - INFO - Train:Step/Epoch:100/96, Accuracy:96.88, Loss:0.0661
+2023-05-20 18:39:16,548 - MLP - INFO - Epoch:97
+2023-05-20 18:39:16,548 - MLP - INFO - Test: Accuracy: 95.56%, Loss: 0.0690
+2023-05-20 18:39:19,891 - MLP - INFO - Train:Step/Epoch:0/97, Accuracy:95.70, Loss:0.0680
+2023-05-20 18:39:20,460 - MLP - INFO - Train:Step/Epoch:50/97, Accuracy:95.12, Loss:0.0710
+2023-05-20 18:39:20,978 - MLP - INFO - Train:Step/Epoch:100/97, Accuracy:96.88, Loss:0.0678
+2023-05-20 18:39:25,440 - MLP - INFO - Epoch:98
+2023-05-20 18:39:25,440 - MLP - INFO - Test: Accuracy: 95.59%, Loss: 0.0688
+2023-05-20 18:39:28,698 - MLP - INFO - Train:Step/Epoch:0/98, Accuracy:94.53, Loss:0.0722
+2023-05-20 18:39:29,378 - MLP - INFO - Train:Step/Epoch:50/98, Accuracy:95.90, Loss:0.0629
+2023-05-20 18:39:29,910 - MLP - INFO - Train:Step/Epoch:100/98, Accuracy:95.31, Loss:0.0680
+2023-05-20 18:39:34,434 - MLP - INFO - Epoch:99
+2023-05-20 18:39:34,434 - MLP - INFO - Test: Accuracy: 95.57%, Loss: 0.0689
+2023-05-20 18:39:37,637 - MLP - INFO - Train:Step/Epoch:0/99, Accuracy:97.66, Loss:0.0604
+2023-05-20 18:39:38,392 - MLP - INFO - Train:Step/Epoch:50/99, Accuracy:95.70, Loss:0.0618
+2023-05-20 18:39:38,929 - MLP - INFO - Train:Step/Epoch:100/99, Accuracy:95.51, Loss:0.0688
+2023-05-20 18:39:43,428 - MLP - INFO - Epoch:100
+2023-05-20 18:39:43,428 - MLP - INFO - Test: Accuracy: 95.72%, Loss: 0.0682
+2023-05-20 18:39:43,428 - MLP - INFO - Trained time: 903.8552887439728 s
