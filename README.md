@@ -1,3 +1,5 @@
 # Numpy-MLP-handwritten-digital-recognition
 
-XJTLU INT304 final coursework.  基于Numpy实现了三层MLP, 并使用MNIST dataset测试
+XJTLU INT304 final coursework.
+
+Implemented a three-layer MLP based on Numpy, and tested it with MNIST dataset.
